@@ -108,17 +108,17 @@ var raptorLetters: Int = 0
 // Sending out the Letters
 while sorted == true && raptorLetters < teamNumbers && dragonLetters < teamNumbers && sharkLetters < teamNumbers{
     for player in sharks{
-        print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Sharks this year! Go Sharks")
+        print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Sharks this year! The first practice is March 17 at 3pm. Go Sharks")
         sharkLetters += 1
     }
     
     for player in dragons {
-        print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Dragons this year! Go Dragons")
+        print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Dragons this year! The first practice is March 17 at 1pm. Go Dragons")
         dragonLetters += 1
     }
     
     for player in raptors {
-        print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Raptors this year! Go Raptors")
+        print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Raptors this year! The first practice is March 18 at 1pm. Go Raptors")
         raptorLetters += 1
     }
 }
