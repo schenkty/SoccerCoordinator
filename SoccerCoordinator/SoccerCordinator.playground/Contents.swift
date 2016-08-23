@@ -105,6 +105,7 @@ var sharkLetters: Int = 0
 var dragonLetters: Int = 0
 var raptorLetters: Int = 0
 
+// Sending out the Letters
 while sorted == true && raptorLetters < teamNumbers && dragonLetters < teamNumbers && sharkLetters < teamNumbers{
     for player in sharks{
         print("Dear \(player["guardians"]), I would like to let you know the great news about \(player["name"]).  \(player["name"]) will be playing on the Sharks this year! Go Sharks")
@@ -121,5 +122,3 @@ while sorted == true && raptorLetters < teamNumbers && dragonLetters < teamNumbe
         raptorLetters += 1
     }
 }
-
-
