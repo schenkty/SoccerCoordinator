@@ -1,23 +1,23 @@
 // array of players that need to be on a team
 let Roster: [[String : String]] = [
-["name": "Joe Smith", "height": "42", "hasExperience": "Yes", "guardians": "Jim and Jan Smith"],
-["name": "Jill Tanner", "height": "36", "hasExperience": "Yes", "guardians": "Clara Tanner"],
-["name": "Bill Bon", "height": "43", "hasExperience": "Yes", "guardians": "Sara and Jenny Bon"],
-["name": "Eva Gordon", "height": "45", "hasExperience": "No", "guardians": "Wendy and Mike Gordon"],
-["name": "Matt Gill", "height": "40", "hasExperience": "No", "guardians": "Charles and Sylvia Gill"],
-["name": "Kimmy Stein", "height": "41", "hasExperience": "No", "guardians": "Bill and Hillary Stein"],
-["name": "Sammy Adams", "height": "45", "hasExperience": "No", "guardians": "Jeff Adams"],
-["name": "Karl Saygan", "height": "42", "hasExperience": "Yes", "guardians": "Heather Bledsoe"],
-["name": "Suzanne Greenberg", "height": "44", "hasExperience": "Yes", "guardians": "Henrietta Dumas"],
-["name": "Sal Dali", "height": "41", "hasExperience": "No", "guardians": "Gala Dali"],
-["name": "Joe Kavalier", "height": "39", "hasExperience": "No", "guardians": "Sam and Elain Kavalier"],
-["name": "Ben Finkelstein", "height": "44", "hasExperience": "No", "guardians": "Aaron and Jill Finkelstein"],
-["name": "Diego Soto", "height": "41", "hasExperience": "Yes", "guardians": "Robin and Sarika Soto"],
-["name": "Chloe Alaska", "height": "47", "hasExperience": "No", "guardians": "David and Jamie Alaska"],
-["name": "Arnold Willis", "height": "43", "hasExperience": "No", "guardians": "Claire Willis"],
-["name": "Phillip Helm", "height": "44", "hasExperience": "Yes", "guardians": "Thomas Helm and Eva Jones"],
-["name": "Les Clay", "height": "42", "hasExperience": "Yes", "guardians": "Wyonna Brown"],
-["name": "Herschel Krustofski", "height": "45", "hasExperience": "Yes", "guardians": "Hyman and Rachel Krustofski"]]
+    ["name": "Joe Smith", "height": "42", "hasExperience": "Yes", "guardians": "Jim and Jan Smith"],
+    ["name": "Jill Tanner", "height": "36", "hasExperience": "Yes", "guardians": "Clara Tanner"],
+    ["name": "Bill Bon", "height": "43", "hasExperience": "Yes", "guardians": "Sara and Jenny Bon"],
+    ["name": "Eva Gordon", "height": "45", "hasExperience": "No", "guardians": "Wendy and Mike Gordon"],
+    ["name": "Matt Gill", "height": "40", "hasExperience": "No", "guardians": "Charles and Sylvia Gill"],
+    ["name": "Kimmy Stein", "height": "41", "hasExperience": "No", "guardians": "Bill and Hillary Stein"],
+    ["name": "Sammy Adams", "height": "45", "hasExperience": "No", "guardians": "Jeff Adams"],
+    ["name": "Karl Saygan", "height": "42", "hasExperience": "Yes", "guardians": "Heather Bledsoe"],
+    ["name": "Suzanne Greenberg", "height": "44", "hasExperience": "Yes", "guardians": "Henrietta Dumas"],
+    ["name": "Sal Dali", "height": "41", "hasExperience": "No", "guardians": "Gala Dali"],
+    ["name": "Joe Kavalier", "height": "39", "hasExperience": "No", "guardians": "Sam and Elain Kavalier"],
+    ["name": "Ben Finkelstein", "height": "44", "hasExperience": "No", "guardians": "Aaron and Jill Finkelstein"],
+    ["name": "Diego Soto", "height": "41", "hasExperience": "Yes", "guardians": "Robin and Sarika Soto"],
+    ["name": "Chloe Alaska", "height": "47", "hasExperience": "No", "guardians": "David and Jamie Alaska"],
+    ["name": "Arnold Willis", "height": "43", "hasExperience": "No", "guardians": "Claire Willis"],
+    ["name": "Phillip Helm", "height": "44", "hasExperience": "Yes", "guardians": "Thomas Helm and Eva Jones"],
+    ["name": "Les Clay", "height": "42", "hasExperience": "Yes", "guardians": "Wyonna Brown"],
+    ["name": "Herschel Krustofski", "height": "45", "hasExperience": "Yes", "guardians": "Hyman and Rachel Krustofski"]]
 
 // setting up the teams
 var sharks: [[String : String]] = []
