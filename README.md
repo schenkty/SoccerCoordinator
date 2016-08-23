@@ -5,16 +5,16 @@ You have volunteered to be the Coordinator for your town’s youth soccer league
 
 The project has three major parts. For each part, choose ONLY from the tools we have covered in the courses so far:
 
-Native types and collections to store data (Dictionaries, Arrays, Ints, Strings, etc...)
+1. Native types and collections to store data (Dictionaries, Arrays, Ints, Strings, etc...)
 
-Accessing, appending and counting Arrays
+2. Accessing, appending and counting Arrays
 
-Accessing Dictionaries and Arrays
+3. Accessing Dictionaries and Arrays
 
-Creating control flow
+4. Creating control flow
 
-Use of comparison operators
+5. Use of comparison operators
 
-String Interpolation
+6. String Interpolation
 
-Use of comments
+7. Use of comments
